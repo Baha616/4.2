@@ -1,0 +1,76 @@
+$colorHead: #ADFF2F;
+
+$colorMain: #4169E1;
+
+$colorText1: #9ACD32;
+
+$colorText2: #FFFAFA;
+
+$textSize: 18px;
+
+ 
+
+header{
+
+    color: $colorHead;
+
+    font-size: $textSize * 1.3;
+
+}
+
+ 
+
+p{
+
+    color: $colorText1;
+
+    font-size: $textSize;
+
+}
+
+ 
+
+.button{
+
+    background-color: $colorMain;
+
+    color: $colorText2;
+
+    font-size: $textSize;
+
+}
+
+ 
+
+nav{
+
+    ul {
+
+        list-style: none;
+
+    }
+
+ 
+
+    a {
+
+        display: block;
+
+        text-decoration: none;
+
+        color: $colorText1;
+
+        font-size: $textSize * 0.75;
+
+    }
+
+    a:hover {
+
+        background-color: $colorMain;
+
+        color: $colorText2;
+
+    }
+
+}
+

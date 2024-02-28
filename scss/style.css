@@ -1,0 +1,29 @@
+header {
+  color: #ADFF2F;
+  font-size: 23.4px;
+}
+
+p {
+  color: #9ACD32;
+  font-size: 18px;
+}
+
+.button {
+  background-color: #4169E1;
+  color: #FFFAFA;
+  font-size: 18px;
+}
+
+nav ul {
+  list-style: none;
+}
+nav a {
+  display: block;
+  text-decoration: none;
+  color: #9ACD32;
+  font-size: 13.5px;
+}
+nav a:hover {
+  background-color: #4169E1;
+  color: #FFFAFA;
+}/*# sourceMappingURL=style.css.map */
